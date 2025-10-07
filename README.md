@@ -1,4 +1,4 @@
 # Gayathri-Portfolio2
 
-link: https://incandescent-kashata-6b80a9.netlify.app/
+link: https://gayathriummadisetti-portfolio.netlify.app/
 Developed by using HTML and CSS
